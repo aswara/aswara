@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## I'm a Full-Stack Developer working in Indonesia.
-
+## I'm a Programmer
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
