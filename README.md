@@ -2,7 +2,7 @@
 
 ## I'm a Programmer
 
-[![Adi Aswara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswara)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Adi Aswara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswara)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
